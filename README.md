@@ -27,10 +27,12 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/thetestcoder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Omex" /></a></p><br><br>
-
+<div class="container">
+  <div class="row">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thetestcoder&show_icons=true&locale=en&layout=compact" alt="Omex" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thetestcoder&show_icons=true&locale=en" alt="Omex" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thetestcoder&" alt="Omex" /></p>
-
+</div>
+  </div>
