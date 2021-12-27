@@ -59,6 +59,8 @@
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCRMOQ2LTZOzdWrkF5lnXqkQ)
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/omkarbhone"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Omex" /></a></p><br><br>
 ---
 
 <details>
