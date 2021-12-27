@@ -1,6 +1,6 @@
-### Hi there, I'm Yasir - aka Shaw 👋
+### Hi there, I'm Omkar 👋
 
-## I'm a FrontEnd Developer, who loves to code! 
+## I'm a Full Stack Developer, who loves to code! 
 
 - 🌱 I’m currently learning latest technologies.
 - 📚 Practicing Angular.
